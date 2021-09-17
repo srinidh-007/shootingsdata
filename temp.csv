@@ -5,3 +5,96 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8,Matthew Hoffman,04-01-2015,shot,toy weapon,32,M,W,San Francisco,CA,TRUE,attack,Not fleeing,FALSE,-122.422,37.763,TRUE
 9,Michael Rodriguez,04-01-2015,shot,nail gun,39,M,H,Evans,CO,FALSE,attack,Not fleeing,FALSE,-104.692,40.384,TRUE
 11,Kenneth Joe Brown,04-01-2015,shot,gun,18,M,W,Guthrie,OK,FALSE,attack,Not fleeing,FALSE,-97.423,35.877,TRUE
+13,Kenneth Arnold Buck,05-01-2015,shot,gun,22,M,H,Chandler,AZ,FALSE,attack,Car,FALSE,-111.841,33.328,TRUE
+15,Brock Nichols,06-01-2015,shot,gun,35,M,W,Assaria,KS,FALSE,attack,Not fleeing,FALSE,-97.564,38.704,TRUE
+16,Autumn Steele,06-01-2015,shot,unarmed,34,F,W,Burlington,IA,FALSE,other,Not fleeing,TRUE,-91.119,40.809,TRUE
+17,Leslie Sapp III,06-01-2015,shot,toy weapon,47,M,B,Knoxville,PA,FALSE,attack,Not fleeing,FALSE,-79.991,40.413,TRUE
+19,Patrick Wetter,06-01-2015,shot and Tasered,knife,25,M,W,Stockton,CA,FALSE,attack,Not fleeing,FALSE,-121.299,37.93,TRUE
+21,Ron Sneed,07-01-2015,shot,gun,31,M,B,Freeport,TX,FALSE,attack,Not fleeing,FALSE,-95.369,28.955,TRUE
+22,Hashim Hanif Ibn Abdul-Rasheed,07-01-2015,shot,knife,41,M,B,Columbus,OH,TRUE,other,Not fleeing,FALSE,-82.885,39.999,TRUE
+25,Nicholas Ryan Brickman,07-01-2015,shot,gun,30,M,W,Des Moines,IA,FALSE,attack,Car,FALSE,-93.609,41.582,TRUE
+27,Omarr Julian Maximillian Jackson,07-01-2015,shot,gun,37,M,B,New Orleans,LA,FALSE,attack,Foot,TRUE,-90.012,30.022,TRUE
+29,Loren Simpson,08-01-2015,shot,,28,M,W,Huntley,MT,FALSE,undetermined,Not fleeing,FALSE,-108.315,45.859,TRUE
+32,James Dudley Barker,08-01-2015,shot,shovel,42,M,W,Salt Lake City,UT,FALSE,attack,Not fleeing,TRUE,-111.872,40.772,TRUE
+36,Artago Damon Howard,08-01-2015,shot,unarmed,36,M,B,Strong,AR,FALSE,attack,Not fleeing,FALSE,-92.359,33.111,TRUE
+37,Thomas Hamby,08-01-2015,shot,gun,49,M,W,Syracuse,UT,FALSE,attack,Not fleeing,TRUE,-112.083,41.083,TRUE
+38,Jimmy Foreman,09-01-2015,shot,gun,71,M,W,England,AR,FALSE,attack,Not fleeing,FALSE,-91.966,34.542,TRUE
+325,Andy Martinez,09-01-2015,shot,gun,33,M,H,El Paso,TX,FALSE,attack,Not fleeing,FALSE,-106.439,31.858,TRUE
+42,Tommy Smith,11-01-2015,shot,gun,39,M,W,Arcola,IL,TRUE,attack,Not fleeing,FALSE,-88.304,39.692,TRUE
+43,Brian  Barbosa,11-01-2015,shot,gun,23,M,H,South Gate,CA,FALSE,attack,Not fleeing,FALSE,-118.183,33.951,TRUE
+45,Salvador Figueroa,11-01-2015,shot and Tasered,gun,29,M,H,North Las Vegas,NV,FALSE,attack,Foot,FALSE,-115.116,36.185,TRUE
+46,John Edward O'Keefe,13-01-2015,shot,gun,34,M,W,Albuquerque,NM,FALSE,attack,Foot,TRUE,-106.586,35.095,TRUE
+48,Richard McClendon,13-01-2015,shot,knife,43,M,W,Jourdanton,TX,TRUE,other,Not fleeing,FALSE,-98.542,28.912,TRUE
+49,Marcus Golden,14-01-2015,shot,,24,M,B,St. Paul,MN,FALSE,attack,Not fleeing,FALSE,-93.094,44.958,TRUE
+50,Michael Goebel,14-01-2015,shot,,29,M,W,Franklin County,MO,FALSE,attack,Not fleeing,FALSE,-90.794,38.317,TRUE
+51,Mario Jordan,14-01-2015,shot,gun,34,M,B,Chesapeake,VA,TRUE,attack,Not fleeing,FALSE,-76.348,36.783,TRUE
+52,Talbot Schroeder,14-01-2015,shot,knife,75,M,W,Old Bridge,NJ,FALSE,attack,Not fleeing,FALSE,-74.301,40.405,TRUE
+54,Robert Edwards,14-01-2015,shot,gun,68,M,W,Lake Jackson,TX,FALSE,attack,Not fleeing,FALSE,-95.428,29.031,TRUE
+55,Jeffrey R. Nielson,14-01-2015,shot,knife,34,M,W,Draper,UT,FALSE,attack,Not fleeing,TRUE,-111.887,40.54,TRUE
+56,Donte Sowell,15-01-2015,shot,gun,27,M,B,Indianapolis,IN,FALSE,attack,Foot,FALSE,-85.991,39.826,TRUE
+57,Kavonda Earl Payton,15-01-2015,shot,gun,39,M,B,Aurora,CO,FALSE,attack,Not fleeing,FALSE,-104.772,39.726,TRUE
+60,Quincy Reed Reindl,15-01-2015,shot,gun,24,M,W,Bloomington,MN,TRUE,attack,Not fleeing,FALSE,-93.358,44.825,TRUE
+63,Jose Ceja,15-01-2015,shot,knife,36,M,H,Fairfield,CA,TRUE,other,Not fleeing,FALSE,-121.997,38.266,TRUE
+64,Nathan Massey,15-01-2015,shot,gun,33,M,W,Evangeline Parish,LA,FALSE,attack,Not fleeing,FALSE,-92.441,30.748,TRUE
+67,Scott Hall,16-01-2015,shot,gun,41,M,W,Mabank,TX,FALSE,attack,Car,FALSE,-96.069,32.407,TRUE
+68,Zaki Shinwary,16-01-2015,shot and Tasered,knife,48,M,O,Fremont,CA,FALSE,other,Not fleeing,FALSE,-122.06,37.588,TRUE
+74,Terence Walker,17-01-2015,shot,gun,21,M,B,Muskogee,OK,FALSE,attack,Foot,TRUE,-95.394,35.766,TRUE
+75,Pablo Meza,17-01-2015,shot,gun,24,M,H,Los Angeles,CA,FALSE,attack,Not fleeing,FALSE,-118.233,34.038,TRUE
+78,Daniel Brumley,17-01-2015,shot,knife,27,M,H,Fort Worth,TX,FALSE,attack,Not fleeing,FALSE,-97.334,32.811,TRUE
+80,Jonathan Guillory,18-01-2015,shot,gun,32,M,W,Maricopa,AZ,TRUE,attack,Not fleeing,FALSE,-112.042,33.085,TRUE
+83,Carter Castle,18-01-2015,shot and Tasered,gun,67,M,W,Gunlock,KY,TRUE,attack,Not fleeing,FALSE,-82.921,37.565,TRUE
+84,Paul Campbell,19-01-2015,shot,knife,49,M,W,Weymouth,MA,FALSE,attack,Not fleeing,FALSE,-70.932,42.257,TRUE
+85,Dewayne Carr,20-01-2015,shot,,42,M,B,Scottsdale,AZ,FALSE,other,Car,FALSE,-111.909,33.509,TRUE
+86,Todd Allen Hodge,21-01-2015,shot,gun,36,M,W,Hemet,CA,FALSE,attack,Not fleeing,FALSE,-116.958,33.742,TRUE
+88,Miguel Angel de Santos-Rodriguez,21-01-2015,shot,gun,36,M,H,Chapeno,TX,FALSE,attack,Foot,FALSE,-99.123,26.559,TRUE
+90,Isaac Holmes,21-01-2015,shot,gun,19,M,B,St. Louis,MO,FALSE,attack,Not fleeing,FALSE,-90.25,38.665,TRUE
+98,Andrew Toto,21-01-2015,shot,gun,54,M,W,Derry,NH,TRUE,attack,Not fleeing,FALSE,-71.337,42.908,TRUE
+99,Tiano Meton,22-01-2015,shot,toy weapon,25,M,B,Sierra Blanca,TX,FALSE,attack,Car,FALSE,-105.028,31.08,TRUE
+100,Kristiana Coignard,22-01-2015,shot and Tasered,knife,17,F,W,Longview,TX,TRUE,other,Not fleeing,FALSE,-94.746,32.495,TRUE
+101,Demaris Turner,23-01-2015,shot,,29,M,B,Fort Lauderdale,FL,FALSE,other,Not fleeing,FALSE,-80.212,26.15,TRUE
+102,Jose Antonio Espinoza Ruiz,23-01-2015,shot,knife,56,M,H,Levelland,TX,FALSE,other,Not fleeing,FALSE,-102.369,33.578,TRUE
+336,Robert Francis Mesch,23-01-2015,shot,gun,61,M,W,Austin,TX,TRUE,attack,Not fleeing,FALSE,-97.789,30.167,TRUE
+105,Daryl Myler,24-01-2015,shot,gun,45,M,W,Rexburg,ID,FALSE,attack,Not fleeing,FALSE,-111.78,43.826,TRUE
+107,Darin Hutchins,24-01-2015,shot,knife,26,M,B,Baltimore,MD,TRUE,other,Not fleeing,FALSE,-76.648,39.284,TRUE
+341,Wendell King,24-01-2015,shot,gun,40,M,W,Fort Worth,TX,FALSE,attack,Not fleeing,FALSE,-97.38,32.678,TRUE
+108,Orlando Jude Lopez,25-01-2015,shot,gun,26,M,H,Pueblo,CO,FALSE,attack,Car,FALSE,-104.574,38.285,TRUE
+110,William Campbell,25-01-2015,shot,gun,59,M,,Winslow,NJ,FALSE,attack,Not fleeing,FALSE,-74.929,39.749,TRUE
+20,Jessie Hernandez,26-01-2015,shot,vehicle,17,F,H,Denver,CO,FALSE,other,Not fleeing,FALSE,-104.909,39.754,TRUE
+324,Raymond Kmetz,26-01-2015,shot,gun,68,M,W,New Hope,MN,TRUE,attack,Not fleeing,FALSE,-93.386,45.036,TRUE
+352,Joshua Omar Garcia,26-01-2015,shot,unarmed,24,M,H,Tahoka,TX,FALSE,other,Car,FALSE,-101.666,33.166,TRUE
+353,David Garcia,26-01-2015,shot,knife,34,M,H,Wasco,CA,TRUE,other,Not fleeing,FALSE,-119.335,35.589,TRUE
+111,Tiffany Terry,27-01-2015,shot,knife,39,F,W,Omaha,NE,TRUE,attack,Not fleeing,FALSE,-95.99,41.243,TRUE
+348,Nicolas Leland Tewa,27-01-2015,shot,,26,M,N,Phoenix,AZ,FALSE,other,Not fleeing,FALSE,-112.113,33.495,TRUE
+349,Chris Ingram,27-01-2015,shot,gun,29,M,W,Morenci,AZ,FALSE,attack,Not fleeing,FALSE,-109.326,33.054,TRUE
+350,Jermonte Fletcher,27-01-2015,shot,gun,33,M,B,Columbus,OH,FALSE,attack,Not fleeing,FALSE,-82.997,39.879,TRUE
+345,Alan Lance Alverson,28-01-2015,shot,gun,45,M,W,Sunset,TX,FALSE,attack,Not fleeing,FALSE,-97.828,33.47,TRUE
+347,Cody Karasek,28-01-2015,shot,gun,26,M,W,Rosenberg,TX,FALSE,attack,Not fleeing,FALSE,-95.784,29.558,TRUE
+346,Matautu Nuu,28-01-2015,shot and Tasered,hammer,35,M,A,Stockton,CA,TRUE,attack,Not fleeing,FALSE,-121.316,38.029,TRUE
+112,Alan James,29-01-2015,shot,gun,31,M,W,Wyoming,MI,TRUE,attack,Not fleeing,FALSE,-85.66,42.894,TRUE
+342,Ralph Willis,29-01-2015,shot,unarmed,42,M,W,Stillwater,OK,FALSE,other,Foot,FALSE,-97.05,36.121,TRUE
+113,John Barry Marshall,30-01-2015,shot,gun,48,M,W,Billings,MT,FALSE,attack,Foot,FALSE,-108.513,45.79,TRUE
+338,Victor Manuel Reyes,31-01-2015,shot,gun,31,M,H,Houston,TX,FALSE,attack,Not fleeing,FALSE,-95.72,29.861,TRUE
+339,Edward Donnell Bright,31-01-2015,shot and Tasered,knife,54,M,B,Randallstown,MD,TRUE,other,Not fleeing,FALSE,-76.821,39.38,TRUE
+115,Francis Murphy Rose III,02-02-2015,shot,gun,42,M,W,Apple Valley,CA,TRUE,attack,Not fleeing,FALSE,-117.177,34.417,TRUE
+528,Jacob Haglund,02-02-2015,shot,gun,17,M,W,Bay City,MI,FALSE,attack,Not fleeing,FALSE,-83.873,43.599,TRUE
+114,David Kassick,02-02-2015,shot and Tasered,unarmed,59,M,W,Hummelstown,PA,FALSE,other,Foot,FALSE,-76.713,40.273,TRUE
+117,Ledarius D. Williams,03-02-2015,shot,gun,23,M,B,St. Louis,MO,FALSE,attack,Foot,FALSE,-90.21,38.75,TRUE
+118,Yuvette Henderson,03-02-2015,shot,gun,38,F,B,Emeryville,CA,FALSE,attack,Car,FALSE,-122.284,37.827,TRUE
+119,Dewayne Deshawn Ward,03-02-2015,shot,knife,29,M,B,Antioch,CA,TRUE,other,Not fleeing,FALSE,-121.818,37.999,TRUE
+120,Anthony Purvis,03-02-2015,shot,gun,45,M,W,Douglas,GA,TRUE,attack,Not fleeing,FALSE,-82.845,31.523,TRUE
+116,Jeremy Lett,04-02-2015,shot,unarmed,28,M,B,Tallahassee,FL,FALSE,attack,Not fleeing,FALSE,-84.33,30.466,TRUE
+123,Izzy Colon,04-02-2015,shot,gun,37,M,H,Orlando,FL,FALSE,attack,Not fleeing,FALSE,-81.306,28.5,TRUE
+124,Salvador Muna,04-02-2015,shot,gun,28,M,H,Tempe,AZ,FALSE,attack,Car,FALSE,-111.978,33.378,TRUE
+125,Joaquin Hernandez,04-02-2015,shot,unarmed,28,M,H,Tempe,AZ,FALSE,other,Not fleeing,FALSE,-111.978,33.378,TRUE
+126,Jimmy Ray Robinson Jr.,04-02-2015,shot,gun,51,M,B,Lorena,TX,FALSE,attack,Car,FALSE,-97.208,31.397,TRUE
+127,Markell Atkins,04-02-2015,shot,knife,36,M,B,Memphis,TN,FALSE,other,Not fleeing,FALSE,-89.932,35.164,TRUE
+128,Paul Alfred Eugene Johnson,05-02-2015,shot,toy weapon,59,M,W,Chino,CA,FALSE,other,Car,FALSE,-117.65,33.953,TRUE
+129,Herbert Hill,06-02-2015,shot,gun,25,M,B,Oklahoma City,OK,FALSE,attack,Not fleeing,FALSE,-97.515,35.404,TRUE
+532,John  Sawyer,07-02-2015,shot,toy weapon,26,M,W,Calimesa,CA,FALSE,attack,Not fleeing,FALSE,-117.057,33.994,TRUE
+554,James Allen,07-02-2015,shot,gun,74,M,B,Gastonia,NC,FALSE,attack,Not fleeing,FALSE,-81.227,35.266,TRUE
+131,John Martin Whittaker,08-02-2015,shot,gun,33,M,W,Anchorage,AK,FALSE,attack,Car,FALSE,-149.859,61.208,TRUE
+132,Sawyer Flache,08-02-2015,shot,gun,27,M,W,Austin,TX,FALSE,attack,Not fleeing,FALSE,-97.891,30.244,TRUE
+133,Vincent Cordaro,08-02-2015,shot,gun,57,M,W,New City,NY,TRUE,attack,Not fleeing,FALSE,-74.001,41.152,TRUE
+134,Joseph Paffen,08-02-2015,shot,gun,46,M,W,Orange County,FL,FALSE,attack,Not fleeing,FALSE,-81.329,28.482,TRUE
+135,Larry Hostetter,08-02-2015,shot,gun,41,M,W,Nocona,TX,FALSE,attack,Not fleeing,FALSE,-97.712,33.787,TRUE
+136,Kenneth Kreyssig,09-02-2015,shot,gun,61,M,W,Smyrna,ME,TRUE,attack,Not fleeing,FALSE,-68.104,46.159,TRUE
